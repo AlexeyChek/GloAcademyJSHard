@@ -1,0 +1,20 @@
+body {
+  color: #fff;
+}
+
+#color {
+  font-size: 54px;
+  margin: 40px;
+  text-align: center;
+}
+
+#btn {
+  font-size: 16px;
+  padding: 16px 32px;
+  border: none;
+  border-radius: 0;
+  background-color: #fff;
+  display: block;
+  margin: auto;
+  cursor: pointer;
+}
